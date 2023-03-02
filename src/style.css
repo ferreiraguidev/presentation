@@ -1,0 +1,129 @@
+.box{
+    width: 450px;
+    height: 615px;
+    top: 50%;
+    left: 50%;
+    text-align: left;
+    display: block;
+    margin: 20px auto;
+    border-bottom: 1px solid silver;
+    border-top: 1px solid silver;
+    border-left: 1px solid silver;
+    border-right: 1px solid silver;
+    border-radius: 20px;
+
+}
+.box img{
+    padding: 20px;
+}
+
+.box h2{
+    left: 90%;
+    padding: 2px;
+}
+
+.box h1{
+    padding: 2px;
+    font-family: Calibri;
+}
+
+.box form{
+    padding: 0 40px;
+    box-sizing: border-box;
+
+}
+
+.box input[type="submit"]{
+    border: 0;
+    background: yellow;
+    display: block;
+    text-align: center;
+    outline: none;
+    color: yellow;
+    border-radius: 24px;
+    width: 350px;
+    height: 45px;
+}
+
+.box input[type="submit_empresarial"]{
+    border: 0;
+    background: lightgrey;
+    display: block;
+    text-align: center;
+    outline: none;
+    color: black;
+    border-radius: 2px;
+    width: 350px;
+    height: 45px;
+}
+
+a{
+    text-decoration: none;
+}
+
+button_criar_conta{
+    color: black;
+
+}
+
+.txt_field_init{
+
+    text-align: left;
+}
+
+.search_input{
+    border: 2px solid cornflowerblue;
+    padding: 5px;
+    border-radius: 12px;
+    height: 50px;
+
+}
+
+.txt_field_init{
+    position: left;
+    border-bottom: 2px;
+    margin: 30px 0;
+
+}
+
+.box txt_link{
+    text-underline: none;
+
+}
+
+.email{
+    font-family: Calibri;
+}
+
+.box button {
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    border: 0;
+    background: blue;
+    display: block;
+    outline: none;
+    border-radius: 24px;
+    width: 350px;
+    height: 55px;
+    cursor: pointer;
+}
+
+.button_create button{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    border: 0;
+    background: lightgrey;
+    display: block;
+    outline: none;
+    border-radius: 24px;
+    width: 350px;
+    height: 55px;
+    cursor: pointer;
+}
+.box img{
+
+}

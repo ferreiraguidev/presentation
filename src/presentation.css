@@ -1,0 +1,223 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.about {
+    text-align: center;
+
+}
+
+.BC {
+    background-color: whitesmoke;
+}
+
+.B {
+    background-color: darkgray;
+    border-radius: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.colored {
+    background-color: darkgray;
+    text-align: right;
+    border: none;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("airplane.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position: bottom 50px right 100px;
+    border-radius: 25px;
+
+}
+
+.newGray {
+    background-color: darkgray;
+    text-align: center;
+    align-items: flex-end;
+    padding: 5px;
+}
+
+.imgCoinBase {
+    border: none !important;
+    background-color: whitesmoke;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.imgCoinBase > * {
+    padding: 30px;
+}
+
+.talk{
+    border: none !important;
+    background-color: whitesmoke;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+
+.imgHtml {
+    padding: 100px;
+    border: none;
+}
+
+
+.logo {
+    background-color: whitesmoke;
+    border: none !important;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+
+}
+
+
+.containerGit {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    text-align: right;
+    background-color: whitesmoke;
+    padding: 0px;
+}
+
+
+.containerResume {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    text-align: right;
+    background-color: whitesmoke;
+    padding: 0px;
+
+
+}
+
+.containerB {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    text-align: center;
+    background-color: whitesmoke;
+    image-resolution: normal;
+    image-orientation: flip;
+
+}
+
+.A {
+    display: flex;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.D {
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.two {
+    padding: 210px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 30px;
+
+}
+
+
+
+.DEF{
+    padding: 100px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.imgCss {
+    display: flex;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.dontKnowYet {
+    background-color: whitesmoke;
+    height: 250px;
+    padding: 20px;
+    align-content: center;
+
+}
+
+.talk {
+    border-radius: 25px;
+    background-color: darkgray;
+    text-align: center;
+    padding: 20px;
+
+}
+.socialMedia{
+    height: 150px;
+}
+
+.loading{
+    padding: 190px;
+}
+
+.imgCoinBase{
+    border-radius: 80px;
+}
+
+.last{
+    display: flex;
+    justify-content: right;
+    padding: 40px;
+}
+.presentationHeader{
+    display: flex;
+    justify-content: right;
+    padding: 5px;
+}
+
+button {
+    background-color: darkgray;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+}
