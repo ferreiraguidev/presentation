@@ -1,0 +1,1 @@
+i was juste playing around with html and css and decieded to create this non-reponsive website, because i also had an idea of developing a presentation in flutter, so look further and wait to see what is commming.
